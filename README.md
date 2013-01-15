@@ -1,4 +1,2 @@
 MTG-turnauskirjanpito
 =====================
-
-TEsti
